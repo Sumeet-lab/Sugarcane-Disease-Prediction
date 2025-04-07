@@ -1,3 +1,5 @@
+python-dotenv==1.0.1
+gdown
 absl-py==2.1.0
 accelerate==1.4.0
 aiofiles==23.2.1
@@ -206,8 +208,8 @@ python-dotenv==1.0.1
 python-json-logger==3.2.1
 python-multipart==0.0.20
 pytz==2025.1
-pywin32==308
-pywin32-ctypes==0.2.3
+pywin32
+pywin32-ctypes
 pywinpty==2.0.15
 PyYAML==6.0.2
 pyzmq==26.2.1
